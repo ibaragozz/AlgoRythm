@@ -21,7 +21,7 @@ stack.push(3)
 print(stack.is_empty())
 print(stack.peek())
 
-class Queue:
+class Queue: 
     def __init__(self):
         self.items = []
 
