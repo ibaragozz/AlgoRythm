@@ -21,7 +21,7 @@
 #
 # print(quick_sort([6, 2, 9, 0, 1, 5, 3]))
 
-# CHOSEN SORTING ALGORITHM
+#CHOSEN SORTING ALGORITHM
 
 # a = [5, 6, 2, 3, 7, 1, -6, -9]
 #
