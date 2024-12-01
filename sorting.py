@@ -21,3 +21,17 @@
 #
 # print(quick_sort([6, 2, 9, 0, 1, 5, 3]))
 
+# CHOSEN SORTING ALGORITHM
+
+# a = [5, 6, 2, 3, 7, 1, -6, -9]
+#
+# def choosen_sort(arr):
+#     for i in range(len(arr)):
+#         min_index = i
+#         for j in range(i + 1, len(arr)):
+#             if arr[min_index] > arr[j]:
+#                 min_index = j
+#         arr[i], arr[min_index] = arr[min_index], arr[i]
+#     return arr
+#
+# print(choosen_sort(a))
